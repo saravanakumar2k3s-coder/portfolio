@@ -26,8 +26,8 @@ const Contact = () => {
       <div className="separator">
       <div className="contact-info">
         <p>📧 Email: Saravanakumar2k3s@gmail.com</p>
-        <p>💼 LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank">linkedin.com/in/Saravanakumar</a></p>
-        <p>🐙 GitHub: <a href="https://github.com/saravanakumar2k3s-coder" target="_blank">github.com/Saravanakumar</a></p>
+        <p>💼 LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank" rel="noreferrer">linkedin.com/in/Saravanakumar</a></p>
+        <p>🐙 GitHub: <a href="https://github.com/saravanakumar2k3s-coder" target="_blank" rel="noreferrer">github.com/Saravanakumar</a></p>
       </div>
 
       <form className="contact-form" onSubmit={handleSubmit}>
