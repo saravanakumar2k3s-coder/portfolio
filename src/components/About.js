@@ -1,5 +1,5 @@
 import React from "react";
-// import profilePic from "../assets/profile.jpg";
+
 
 const About = () => {
   return (
@@ -10,7 +10,9 @@ const About = () => {
 
   <div className="about__container">
     <p className="about__description">
-      Web developer with extensive knowledge in web technologies and UI/UX design. I build web applications that are scalable, efficient, and provide seamless user experiences. Passionate about learning and solving complex problems through code.
+        I'm a passionate Frontend Developer skilled in React, JavaScript, and
+          modern UI design. I love creating smooth, responsive, and user-friendly
+          web interfaces that solve real-world problems.
     </p>
 
     <div className="about__info">

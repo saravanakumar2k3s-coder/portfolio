@@ -271,8 +271,8 @@ body.dark .skill-card {
 
 body.dark .skill-icon,
 body.dark .skill-progress {
-  color:#6c63ff;
-  background-color:#6c63ff;
+  color:#eaeaef;
+  background-color:#e8e7ec;
 }
 
 body.dark .skill-bar {
@@ -519,7 +519,7 @@ body.dark .footer-social a {
 }
 
 body.dark .footer-social a:hover {
-  color: #00d4ff;
+  color: #cccfcf;
 }
 
 body.dark .footer-bottom {

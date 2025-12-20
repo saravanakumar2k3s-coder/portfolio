@@ -1,10 +1,13 @@
 import React from "react";
 import "../App.css";
+import portfolioImg from "../assets/portfolio.png";
+import weatherapp from "../assets/weather.png"
 
 const projects = [
   { title: "Ecommerce Site", img: "https://via.placeholder.com/300", link: "#" },
-  { title: "Portfolio", img: "https://via.placeholder.com/300", link: "#" },
-  { title: "Wether App", img: "https://via.placeholder.com/300", link: "#" },
+  { title: "Personal Portfolio", img: portfolioImg, link: "https://portfolio-iota-bice-14.vercel.app/" },
+  { title: "Wether App", img: weatherapp, link: "https://weather-app0-theta.vercel.app/" },
+
 ];
 
 const Portfolio = () => {
